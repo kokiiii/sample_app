@@ -7,4 +7,4 @@ class CreateUsers < ActiveRecord::Migration
       t.timestamps
     end
   end
-ends
+end
